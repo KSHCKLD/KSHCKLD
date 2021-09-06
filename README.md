@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KSHCKLD
+- 👀 I’m interested in modding.Specifically doom and nfs.
+- 🌱 I’m currently learning to mod gzdoom.
